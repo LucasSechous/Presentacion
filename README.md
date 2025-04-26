@@ -3,18 +3,20 @@ Hablo español y portugués de forma nativa (viví 8 años en Brasil y el resto 
 
 Tengo experiencia con:
 
-  .NET Framework y C#
+  - .NET Framework y C#
   
-  Java (en proceso de aprendizaje)
+  - Java (en proceso de aprendizaje)
   
-  Python (nivel introductorio)
+  - Python (nivel introductorio)
   
-  JavaScript, HTML5 y CSS para desarrollo web
+  - JavaScript, HTML5 y CSS para desarrollo web
   
-  SQL Server (SSMS) para gestión de bases de datos
+  - SQL Server (SSMS) para gestión de bases de datos
+
+  - GitHub / GIT para gestion de versiones de codigo y almacenar repositorios
 
 Uno de mis próximos objetivos es adentrarme en el mundo de la inteligencia artificial, un área que me intriga y que considero clave para el futuro. Estoy siempre abierto a aprender nuevas tecnologías y mejorar mis habilidades constantemente.
-Soy comprometido, puntual, y tengo disponibilidad horaria. No me considero perfecto, pero siempre aprendo de mis errores y busco crecer con cada experiencia.
+Soy comprometido, puntual, perfeccionista y tengo disponibilidad horaria. No me considero perfecto, pero siempre aprendo de mis errores y busco crecer con cada experiencia.
 
 ----------------------------------------- English -----------------------------------------
 
@@ -23,15 +25,17 @@ I'm a native Spanish and Portuguese speaker (I lived in Brazil for 8 years and t
 
 My experience includes:
 
-  .NET Framework and C#
+  - .NET Framework and C#
   
-  Java (currently learning)
+  - Java (currently learning)
   
-  Python (introductory level)
+  - Python (introductory level)
   
-  JavaScript, HTML5, and CSS for web development
+  - JavaScript, HTML5, and CSS for web development
   
-  SQL Server (SSMS) for database creation and management
+  - SQL Server (SSMS) for database creation and management
+
+  - Git and GitHub for version control and to manage my code repositories.
 
 One of my next goals is to study artificial intelligence, an area I find fascinating and full of potential for the future. I'm always open to learning new tools and improving my skills.
-I'm committed, punctual, and open to flexible schedules. I'm not perfect, but I always learn from my mistakes, and I see that as one of my greatest strengths.
+I'm committed, punctual, perfectionist and open to flexible schedules. I'm not perfect, but I always learn from my mistakes, and I see that as one of my greatest strengths.
